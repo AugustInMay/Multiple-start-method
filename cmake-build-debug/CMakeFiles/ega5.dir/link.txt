@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ega5.dir/main.cpp.o CMakeFiles/ega5.dir/MC.cpp.o CMakeFiles/ega5.dir/HCD.cpp.o CMakeFiles/ega5.dir/HCW.cpp.o  -o ega5 
